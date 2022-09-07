@@ -1,0 +1,15 @@
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\bin\Debug\net6.0\NonUniqueWords.exe
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\bin\Debug\net6.0\NonUniqueWords.deps.json
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\bin\Debug\net6.0\NonUniqueWords.runtimeconfig.json
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\bin\Debug\net6.0\NonUniqueWords.dll
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\bin\Debug\net6.0\NonUniqueWords.pdb
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.csproj.AssemblyReference.cache
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.AssemblyInfoInputs.cache
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.AssemblyInfo.cs
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.dll
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\refint\NonUniqueWords.dll
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.pdb
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\NonUniqueWords.genruntimeconfig.cache
+C:\Users\Наталья\source\repos\NonUniqueWords\NonUniqueWords\obj\Debug\net6.0\ref\NonUniqueWords.dll

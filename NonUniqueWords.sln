@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonUniqueWords", "NonUniqueWords\NonUniqueWords.csproj", "{311BB866-8826-4F23-900A-DD89CA64B0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonUniqueWordsTest", "NonUniqueWordsTest\NonUniqueWordsTest.csproj", "{BBB1A3C7-8F79-49EA-AE64-F65804C45380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311BB866-8826-4F23-900A-DD89CA64B0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311BB866-8826-4F23-900A-DD89CA64B0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311BB866-8826-4F23-900A-DD89CA64B0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311BB866-8826-4F23-900A-DD89CA64B0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB1A3C7-8F79-49EA-AE64-F65804C45380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB1A3C7-8F79-49EA-AE64-F65804C45380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB1A3C7-8F79-49EA-AE64-F65804C45380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB1A3C7-8F79-49EA-AE64-F65804C45380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFAEF3F9-94B1-4D8C-BF3C-F6A39B3CA898}
+	EndGlobalSection
+EndGlobal
